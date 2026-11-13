@@ -1,0 +1,3 @@
+*.jsonl -text
+*.pcap binary
+*.so binary
